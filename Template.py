@@ -1,0 +1,5 @@
+"""
+Ai
+"""
+def start():
+    pass
